@@ -1,27 +1,27 @@
 {
   "title": "About Logwatch Plugin",
   "story": [
-  	{
+    {
       "type": "paragraph",
       "id": "370089e1e1e9dd85",
       "text": "Some servers share the names of pages they serve. We listen to a stream of them and report them here. "
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "9675cc68d844fce5",
-      "text": "<h3> Pages Served"
+      "text": "<h3>Pages Served</h3>"
     },
     {
       "type": "logwatch",
       "id": "a40def7df82b30d3"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "c9f1bc98f2436144",
-      "text": "<h3> Messages"
+      "text": "<h3>Messages</h3>"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "8cd18ffbeccd028c",
       "text": "<li>WebSocket Connection Opened. — we're listening (how)\n<li> WebSocket Connection Closed. — lost or never had a stream.\n<li> [[About Logwatch Plugin]] — a page has been served\n"
     }
@@ -274,6 +274,57 @@
         "text": "<h3> Pages Served"
       },
       "date": 1348204025432
+    },
+    {
+      "type": "edit",
+      "id": "9675cc68d844fce5",
+      "item": {
+        "type": "html",
+        "id": "9675cc68d844fce5",
+        "text": "<h3> Pages Served"
+      },
+      "date": 1418315918261
+    },
+    {
+      "type": "edit",
+      "id": "9675cc68d844fce5",
+      "item": {
+        "type": "html",
+        "id": "9675cc68d844fce5",
+        "text": "<h3>Pages Served</h3>"
+      },
+      "date": 1418315929179
+    },
+    {
+      "type": "edit",
+      "id": "c9f1bc98f2436144",
+      "item": {
+        "type": "html",
+        "id": "c9f1bc98f2436144",
+        "text": "<h3> Messages"
+      },
+      "date": 1418315937251
+    },
+    {
+      "type": "edit",
+      "id": "c9f1bc98f2436144",
+      "item": {
+        "type": "html",
+        "id": "c9f1bc98f2436144",
+        "text": "<h3>Messages</h3>"
+      },
+      "date": 1418315955425
+    },
+    {
+      "type": "edit",
+      "id": "8cd18ffbeccd028c",
+      "item": {
+        "type": "html",
+        "id": "8cd18ffbeccd028c",
+        "text": "<li>WebSocket Connection Opened. — we're listening (how)\n<li> WebSocket Connection Closed. — lost or never had a stream.\n<li> [[About Logwatch Plugin]] — a page has been served\n"
+      },
+      "date": 1418316933213
     }
-  ]
+  ],
+  "plugin": "logwatch"
 }
