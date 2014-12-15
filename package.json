@@ -1,6 +1,6 @@
 {
   "name": "wiki-plugin-logwatch",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Federated Wiki - Log Watch Plug-in",
   "keywords": [
     "wiki",
