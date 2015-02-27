@@ -1,3 +1,10 @@
+###
+ * Federated Wiki : Log Watch Plugin
+ *
+ * Licensed under the MIT license.
+ * https://github.com/fedwiki/wiki-plugin-logwatch/blob/master/LICENSE.txt
+###
+
 window.plugins.logwatch =
   bind: (div, item) ->
   emit: (div, item) ->
